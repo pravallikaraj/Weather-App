@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
 
     //https://api.openweathermap.org/data/2.5/weather?q=India&appid=deabdd0ed08ec9445d21871fb0b10481
     String baseURL = "https://api.openweathermap.org/data/2.5/weather?q=";
-    String apiKey = "&appid=deabdd0ed08ec9445d21871fb0b10481";
+    String apiKey = "&appid="+"deabdd0ed08ec9445d21871fb0b10481";
 
 
     @Override
