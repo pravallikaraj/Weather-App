@@ -1,5 +1,9 @@
 # Weather-App
 
-
-    <td><img src="Screenshot_Quiz_app/quiz4.png" width=320 height=540></td>
-    <td><img src="Screenshot_Quiz_app/quiz5.png" width=320 height=540></td>
+<table>
+  <tr>
+    <td><img src="Screenshot_Weather_app/weather1.png" width=320 height=540></td>
+    <td><img src="Screenshot_Weather_app/weather2.png" width=320 height=540></td>
+    <td><img src="Screenshot_Weather_app/weather3.png" width=320 height=540></td>
+  </tr>
+<table>
