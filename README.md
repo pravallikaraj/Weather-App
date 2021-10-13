@@ -19,6 +19,6 @@ This weather uses OpenWeatherMap API. Get your API Key from the OpenWeatherMap w
   
   <table>
   <tr>
-    <td><img src="Screenshot_Weather_app/weather3.png" width=320 height=540></td>
+    <td><img src="Screenshot_Weather_app/weather3.png" width=310 height=540></td>
   </tr>
 <table>
