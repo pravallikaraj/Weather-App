@@ -11,8 +11,8 @@ This weather uses OpenWeatherMap API. Get your API Key from the OpenWeatherMap w
 
 <table>
   <tr>
-    <td><img src="Screenshot_Weather_app/weather1.png" width=450 height=500></td>
-    <td><img src="Screenshot_Weather_app/weather2.png" width=450 height=500></td>
-    <td><img src="Screenshot_Weather_app/weather3.png" width=450 height=500></td>
+    <td><img src="Screenshot_Weather_app/weather1.png" width=430 height=500></td>
+    <td><img src="Screenshot_Weather_app/weather2.png" width=430 height=500></td>
+    <td><img src="Screenshot_Weather_app/weather3.png" width=430 height=500></td>
   </tr>
 <table>
